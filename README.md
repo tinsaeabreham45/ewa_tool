@@ -41,8 +41,4 @@ Where:
   - `numpy`
   - `matplotlib`
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ewa-visualization.git
-   cd ewa-visualization
+
